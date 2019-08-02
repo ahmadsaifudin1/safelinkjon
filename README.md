@@ -1,0 +1,2 @@
+# safelinkjon
+safelink auto
